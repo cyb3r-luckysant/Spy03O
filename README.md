@@ -1,5 +1,5 @@
 <p align="center">
-<img src='img/cn.png' style="height:100px;width:100px;" >
+<img src='img&vid/yt.jpeg.jpg' style="height:100px;width:100px;" >
 </p>
 <h1 align=center>Cyb3r-lucky</h1>
 
